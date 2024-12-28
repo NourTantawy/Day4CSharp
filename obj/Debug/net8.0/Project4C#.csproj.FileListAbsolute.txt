@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Project4C#\bin\Debug\net8.0\Project4C#.exe
+C:\Users\Admin\source\repos\Project4C#\bin\Debug\net8.0\Project4C#.deps.json
+C:\Users\Admin\source\repos\Project4C#\bin\Debug\net8.0\Project4C#.runtimeconfig.json
+C:\Users\Admin\source\repos\Project4C#\bin\Debug\net8.0\Project4C#.dll
+C:\Users\Admin\source\repos\Project4C#\bin\Debug\net8.0\Project4C#.pdb
+C:\Users\Admin\source\repos\Project4C#\obj\Debug\net8.0\Project4C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Project4C#\obj\Debug\net8.0\Project4C#.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Project4C#\obj\Debug\net8.0\Project4C#.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Project4C#\obj\Debug\net8.0\Project4C#.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Project4C#\obj\Debug\net8.0\Project4C#.dll
+C:\Users\Admin\source\repos\Project4C#\obj\Debug\net8.0\refint\Project4C#.dll
+C:\Users\Admin\source\repos\Project4C#\obj\Debug\net8.0\Project4C#.pdb
+C:\Users\Admin\source\repos\Project4C#\obj\Debug\net8.0\Project4C#.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Project4C#\obj\Debug\net8.0\ref\Project4C#.dll
